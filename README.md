@@ -5,7 +5,7 @@
 
 # Installing
 ``` mermaid
-	cd C:\%homepath%\powercord\src\Powercord\plugins && git clone <INSERT_LINK>
+	cd C:\%homepath%\powercord\src\Powercord\plugins && git clone https://github.com/DobreCostin21/Powercord-RandomNumbers
 ```
 
 ## Using
