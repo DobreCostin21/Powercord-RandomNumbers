@@ -1,0 +1,10 @@
+{
+    "name": "Random Numbers",
+    "version": "1",
+    "description": "Sends a random number between 0 and 1000",
+    "author": "Costin#4159",
+    "license": "MIT",
+    "dependencies": [
+        "pc-commands"
+    ]
+}
